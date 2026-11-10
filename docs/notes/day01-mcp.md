@@ -5,3 +5,4 @@
 ## Message format
 ## Transports: stdio vs Streamable HTTP
 ## Open question
+## Sequence of setup
